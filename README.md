@@ -8,7 +8,10 @@
 ##### Current task list:
 - [ ] New !webtimes
 - [ ] New reputation system
-- [ ] Gather images of all maps (surf/bhop/deathrun)
+- [ ] Gather images of all maps
+  - [ ] Surf
+  - [ ] Bhop
+  - [ ] Deathrun
 - [ ] Store rework (allowing selling/trading of bought items)
 - [ ] New Sourcebans (Infractions)
 
