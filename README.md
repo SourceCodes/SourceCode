@@ -8,7 +8,7 @@
 ##### Current task list:
 - [ ] New !webtimes
 - [ ] New reputation system
-- [ ] Gather images of all maps
+- Gather images of all maps
   - [ ] Surf
   - [ ] Bhop
   - [ ] Deathrun
