@@ -7,7 +7,8 @@
 
 ##### Current task list:
 - [ ] New !webtimes
-- [ ] Store rework (allowing selling/trading & new items)
+- [ ] New reputation system
+- [ ] Store rework (allowing selling/trading of bought items)
 - [ ] New Sourcebans (Infractions)
 
 ##### Finish tasks:
