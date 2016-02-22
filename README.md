@@ -4,6 +4,3 @@
  - You can also submit ideas through the issue tracker.
 
 ## [Click here to submit an issue or idea!](https://github.com/meev/SourceCode/issues/new)
-
-Last fixed issues:
-N/A
