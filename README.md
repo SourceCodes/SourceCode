@@ -11,4 +11,4 @@
 - [ ] New Sourcebans (Infractions)
 
 ##### Finish tasks:
-- Nothing yet, starting on fresh yo!
+- [x] Nothing yet, starting on fresh yo!
